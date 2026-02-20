@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gokkrish48-sudo/gokkrish48-sudo/main/banner.png" width="100%" alt="Gokulakrishnan Banner" />
-</p>
+
 
 # Architecting the Future of Agentic AI & Enterprise RAG 🚀
 
