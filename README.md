@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="dna_helix.jpg" width="100%" alt="Gokulakrishnan Banner" />
+</p>
 
 # Architecting the Future of Agentic AI & Enterprise RAG 🚀
 
