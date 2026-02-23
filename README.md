@@ -39,6 +39,12 @@ Experienced AI Architect specializing in production-grade **RAG pipelines**, **M
 
 ### 🏛️ Flagship Research & Projects
 
+#### ⚛️ [**Q-RAG: Quantum-Enhanced Retrieval-Augmented Generation**](Q-RAG_Research_Paper.pdf)
+*February 2026 | Preprint — Under Review*
+- Hybrid quantum-classical framework reducing retrieval complexity from `O(N)` to `O(√N)` via Quantum Amplitude Estimation.
+- Implements a Variational Quantum Circuit (VQC) for 15-25x faster candidate re-ranking on NISQ hardware.
+- Benchmarked to achieve 60% latency reduction in large-scale enterprise document retrieval.
+
 #### 🌌 [**RAGBench**](https://github.com/gokkrish48-sudo/ragbench)
 *A Production-Grade Retrieval Evaluation & Optimization Framework.* 
 - Implements hybrid fusion (RRF), score calibration, and end-to-end latency-cost modeling.
